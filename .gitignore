@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+~$*
+
+# 生成脚本与中间产物不入库
+out/
+*.tmp
